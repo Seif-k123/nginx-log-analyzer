@@ -62,22 +62,22 @@ reports/nginx_report_2026-05-12_15-40-10.txt
 
 📊 Total Requests:
 12000
-
+---
 🌍 Top IPs:
 192.168.1.10  500
 10.0.0.5      420
-
+----
 📌 Status Codes:
 200  11000
 404  800
 500  200
-
+---
 🔗 Top Endpoints:
 /home   6000
 /login  3500
-
+---
 ⚠️ Error Rate:
 Total: 12000 | Errors: 1000 | Error Rate: 8.33%
-
+---
 🚨 Suspicious IPs (>50 requests):
 192.168.1.10  500
