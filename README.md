@@ -69,6 +69,7 @@ reports/nginx_report_2026-05-12_15-40-10.txt
 ----
 📌 Status Codes:
 200  11000
+
 404  800
 500  200
 ---
